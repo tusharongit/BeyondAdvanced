@@ -1,4 +1,4 @@
-class AutoPublisher: # this is our observable (subject)
+class AutoFunc: # this is our observable (subject)
     def __init__(self):
         self.__subscribers = []
         self.__latestNews = None
@@ -23,7 +23,7 @@ class AutoPublisher: # this is our observable (subject)
         return ('News: {}'.format(self.__latestNews))
 
 # some subscribers (these are our observers)
-class EmailSubscriber:
+class autoLights:
     def __init__(self, pub):
         self.publisher = pub
         self.publisher.attach(self)
@@ -31,7 +31,7 @@ class EmailSubscriber:
     def update(self):
         print(type(self).__name__, self.publisher.getNews())
 
-class PrintSubsciber:
+class autoWipers:
     def __init__(self, pub):
         self.publisher = pub
         self.publisher.attach(self)
@@ -39,21 +39,12 @@ class PrintSubsciber:
     def update(self):
         print(type(self).__name__, self.publisher.getNews())
 
-class MediaSubscriber:
-    def __init__(self, pub):
-        self.publisher = pub
-        self.publisher.attach(self)
-
-    def update(self):
-        print(type(self).__name__, self.publisher.getNews())
 
 if __name__ == '__main__':
-    news_publisher = NewsPublisher()
-    i = 0
+    carAF = AutoFunc()
     # iterate over a collection of subscribers and notify each
-    for Subscriber in [MediaSubscriber, PrintSubsciber, EmailSubscriber]:
-        i += 1
-        Subscriber(news_publisher)
-        news_publisher.addNews('{}: Something newsworthy just happened!'.format(i))
-        news_publisher.notifySubscribers()
+    for auto in [autoLights, autoWipers]:
+        auto(carAF)
+        carAF.addNews('Something newsworthy just happened!')
+        carAF.notifySubscribers()
         
