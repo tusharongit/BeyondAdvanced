@@ -1,0 +1,7 @@
+Athlone,IE
+Berlin,DE
+Delhi,IN
+Madrid,ES
+London,UK
+Sydney,AU
+Washington,US

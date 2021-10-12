@@ -1,0 +1,8 @@
+this is redirected to the log file
+this is redirected to the log file
+this is redirected to the log file
+this is redirected to the log file
+print to file now
+print to file now
+print to file now
+print to file now
