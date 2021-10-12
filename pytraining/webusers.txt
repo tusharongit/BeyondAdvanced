@@ -1,0 +1,6 @@
+Name: Toby; Email: toby@pycourse.org; Level: Owner
+Name: Aimee; Email: aimee@pycourse.org; Level: Admin
+Name: Bharath; Email: bharath@pycourse.org; Level: Guest
+Name: Diego; Email: deigo@pycourse.org; Level: Guest
+Name: Sana; Email: sana@pycourse.org; Level: Guest
+Name: Tushar; Email: sana@pycourse.org; Level: Admin

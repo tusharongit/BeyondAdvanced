@@ -1,0 +1,5 @@
+Title: Home; Description: Welcome to our website
+Title: About Us; Description: Information about our company
+Title: Products; Description: Our product offering
+Title: Contact Us; Description: How to get in touch
+Title: Legal; Description: The legal bits
