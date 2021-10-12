@@ -1,0 +1,6 @@
+2021-09-07 14:58:49.599368
+category 'photos' . id 4
+{'albumId': 1, 'id': 4, 'title': 'culpa odio esse rerum omnis laboriosam voluptate repudiandae', 'url': 'https://via.placeholder.com/600/d32776', 'thumbnailUrl': 'https://via.placeholder.com/150/d32776'}
+2021-09-07 14:59:32.534590
+category 'posts' . id 4
+{'userId': 1, 'id': 4, 'title': 'eum et est occaecati', 'body': 'ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit'}

@@ -1,0 +1,4 @@
+2021-09-07 14:29:07.485059
+EXCEPTION! Invalid category 'album'. Defaulting to 'users'
+2021-09-07 14:31:21.214727
+EXCEPTION! Invalid category 'jumbo'. Defaulting to 'users'
