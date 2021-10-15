@@ -1,0 +1,153 @@
+
+Athlone: https://www.google.co.uk/maps/place/-7.95,53.4333
+[12 Oct 15:44] Weather is overcast clouds. Temperature is 13.01C feels like 12.32C with a windspeed of 2.46mph
+
+Belfast: https://www.google.co.uk/maps/place/-5.9333,54.5833
+[12 Oct 15:44] Weather is haze. Temperature is 15.84C feels like 15.65C with a windspeed of 3.09mph
+
+Cork: https://www.google.co.uk/maps/place/-8.4706,51.898
+[12 Oct 15:44] Weather is broken clouds. Temperature is 14.84C feels like 14.52C with a windspeed of 1.54mph
+
+Dublin: https://www.google.co.uk/maps/place/-121.9358,37.7021
+[12 Oct 15:44] Weather is clear sky. Temperature is 11.32C feels like 9.45C with a windspeed of 0.45mph
+
+Edenderry: https://www.google.co.uk/maps/place/-7.0497,53.3453
+[12 Oct 15:44] Weather is overcast clouds. Temperature is 13.66C feels like 13.04C with a windspeed of 2.67mph
+
+Frankfurt: https://www.google.co.uk/maps/place/8.6833,50.1167
+[12 Oct 15:44] Weather is scattered clouds. Temperature is 11.12C feels like 10.69C with a windspeed of 3.09mph
+
+Galway: https://www.google.co.uk/maps/place/-9.0489,53.2719
+[12 Oct 15:44] Weather is overcast clouds. Temperature is 14.97C feels like 14.43C with a windspeed of 0.49mph
+
+Houston: https://www.google.co.uk/maps/place/-95.3633,29.7633
+[12 Oct 15:44] Weather is mist. Temperature is 28.13C feels like 32.27C with a windspeed of 1.79mph
+
+Istanbul: https://www.google.co.uk/maps/place/28.9833,41.0351
+[12 Oct 15:44] Weather is light rain. Temperature is 18.29C feels like 18.19C with a windspeed of 3.09mph
+
+Jakarta: https://www.google.co.uk/maps/place/106.8451,-6.2146
+[12 Oct 15:44] Weather is haze. Temperature is 29.38C feels like 32.97C with a windspeed of 2.06mph
+
+Kolkata: https://www.google.co.uk/maps/place/88.3697,22.5697
+[12 Oct 15:44] Weather is haze. Temperature is 30.97C feels like 37.97C with a windspeed of 2.06mph
+
+London: https://www.google.co.uk/maps/place/-0.1257,51.5085
+[12 Oct 15:44] Weather is broken clouds. Temperature is 15.6C feels like 15.2C with a windspeed of 4.12mph
+
+Mumbai: https://www.google.co.uk/maps/place/72.8479,19.0144
+[12 Oct 15:44] Weather is haze. Temperature is 28.99C feels like 34.5C with a windspeed of 5.14mph
+
+Nairobi: https://www.google.co.uk/maps/place/36.8167,-1.2833
+[12 Oct 15:44] Weather is broken clouds. Temperature is 24.93C feels like 24.34C with a windspeed of 0mph
+
+Ottawa: https://www.google.co.uk/maps/place/-75.6981,45.4112
+[12 Oct 15:44] Weather is broken clouds. Temperature is 17.52C feels like 17.6C with a windspeed of 0.45mph
+
+Paris: https://www.google.co.uk/maps/place/2.3488,48.8534
+[12 Oct 15:44] Weather is overcast clouds. Temperature is 15.42C feels like 14.79C with a windspeed of 0.89mph
+
+Quebec: https://www.google.co.uk/maps/place/-71.2145,46.8123
+[12 Oct 15:44] Weather is overcast clouds. Temperature is 17.16C feels like 16.97C with a windspeed of 2.24mph
+
+Athlone: https://www.google.co.uk/maps/place/-7.95,53.4333
+[13 Oct 14:17] Weather is broken clouds. Temperature is 13.56C feels like 12.9C with a windspeed of 2.49mph
+
+Belfast: https://www.google.co.uk/maps/place/-5.9333,54.5833
+[13 Oct 14:17] Weather is overcast clouds. Temperature is 13.34C feels like 12.69C with a windspeed of 3.09mph
+
+Cork: https://www.google.co.uk/maps/place/-8.4706,51.898
+[13 Oct 14:17] Weather is broken clouds. Temperature is 13.79C feels like 13.55C with a windspeed of 3.09mph
+
+Dublin: https://www.google.co.uk/maps/place/-121.9358,37.7021
+[13 Oct 14:17] Weather is clear sky. Temperature is 8.88C feels like 8.33C with a windspeed of 1.54mph
+
+Edenderry: https://www.google.co.uk/maps/place/-7.0497,53.3453
+[13 Oct 14:17] Weather is scattered clouds. Temperature is 12.84C feels like 12.03C with a windspeed of 2.43mph
+
+Frankfurt: https://www.google.co.uk/maps/place/8.6833,50.1167
+[13 Oct 14:17] Weather is few clouds. Temperature is 12.18C feels like 11.23C with a windspeed of 4.12mph
+
+Galway: https://www.google.co.uk/maps/place/-9.0489,53.2719
+[13 Oct 14:17] Weather is broken clouds. Temperature is 13.97C feels like 13.43C with a windspeed of 2.7mph
+
+Houston: https://www.google.co.uk/maps/place/-95.3633,29.7633
+[13 Oct 14:17] Weather is broken clouds. Temperature is 24.57C feels like 25.17C with a windspeed of 1.34mph
+
+Istanbul: https://www.google.co.uk/maps/place/28.9833,41.0351
+[13 Oct 14:17] Weather is broken clouds. Temperature is 15.5C feels like 14.75C with a windspeed of 3.09mph
+
+Jakarta: https://www.google.co.uk/maps/place/106.8451,-6.2146
+[13 Oct 14:17] Weather is few clouds. Temperature is 28.75C feels like 32.02C with a windspeed of 2.06mph
+
+Kolkata: https://www.google.co.uk/maps/place/88.3697,22.5697
+[13 Oct 14:17] Weather is haze. Temperature is 30.97C feels like 37.97C with a windspeed of 0mph
+
+London: https://www.google.co.uk/maps/place/-0.1257,51.5085
+[13 Oct 14:17] Weather is overcast clouds. Temperature is 15.81C feels like 15.38C with a windspeed of 3.09mph
+
+Mumbai: https://www.google.co.uk/maps/place/72.8479,19.0144
+[13 Oct 14:17] Weather is haze. Temperature is 30.99C feels like 37.99C with a windspeed of 3.09mph
+
+Nairobi: https://www.google.co.uk/maps/place/36.8167,-1.2833
+[13 Oct 14:17] Weather is overcast clouds. Temperature is 21.09C feels like 20.59C with a windspeed of 3.74mph
+
+Ottawa: https://www.google.co.uk/maps/place/-75.6981,45.4112
+[13 Oct 14:17] Weather is overcast clouds. Temperature is 15.38C feels like 15.43C with a windspeed of 2.1mph
+
+Paris: https://www.google.co.uk/maps/place/2.3488,48.8534
+[13 Oct 14:17] Weather is scattered clouds. Temperature is 14.59C feels like 13.57C with a windspeed of 0.89mph
+
+Quebec: https://www.google.co.uk/maps/place/-71.2145,46.8123
+[13 Oct 14:17] Weather is broken clouds. Temperature is 15.92C feels like 15.81C with a windspeed of 0.89mph
+
+Athlone: https://www.google.co.uk/maps/place/-7.95,53.4333
+[13 Oct 14:19] Weather is broken clouds. Temperature is 13.56C feels like 12.9C with a windspeed of 2.49mph
+
+Belfast: https://www.google.co.uk/maps/place/-5.9333,54.5833
+[13 Oct 14:19] Weather is overcast clouds. Temperature is 13.34C feels like 12.69C with a windspeed of 3.09mph
+
+Cork: https://www.google.co.uk/maps/place/-8.4706,51.898
+[13 Oct 14:19] Weather is broken clouds. Temperature is 13.79C feels like 13.55C with a windspeed of 3.09mph
+
+Dublin: https://www.google.co.uk/maps/place/-121.9358,37.7021
+[13 Oct 14:19] Weather is clear sky. Temperature is 8.88C feels like 8.33C with a windspeed of 1.54mph
+
+Edenderry: https://www.google.co.uk/maps/place/-7.0497,53.3453
+[13 Oct 14:19] Weather is scattered clouds. Temperature is 12.84C feels like 12.03C with a windspeed of 2.43mph
+
+Frankfurt: https://www.google.co.uk/maps/place/8.6833,50.1167
+[13 Oct 14:19] Weather is few clouds. Temperature is 12.18C feels like 11.23C with a windspeed of 4.12mph
+
+Galway: https://www.google.co.uk/maps/place/-9.0489,53.2719
+[13 Oct 14:19] Weather is broken clouds. Temperature is 13.97C feels like 13.43C with a windspeed of 2.7mph
+
+Houston: https://www.google.co.uk/maps/place/-95.3633,29.7633
+[13 Oct 14:19] Weather is broken clouds. Temperature is 24.57C feels like 25.17C with a windspeed of 1.34mph
+
+Istanbul: https://www.google.co.uk/maps/place/28.9833,41.0351
+[13 Oct 14:19] Weather is broken clouds. Temperature is 15.5C feels like 14.75C with a windspeed of 3.09mph
+
+Jakarta: https://www.google.co.uk/maps/place/106.8451,-6.2146
+[13 Oct 14:19] Weather is few clouds. Temperature is 28.75C feels like 32.02C with a windspeed of 2.06mph
+
+Kolkata: https://www.google.co.uk/maps/place/88.3697,22.5697
+[13 Oct 14:19] Weather is haze. Temperature is 30.97C feels like 37.97C with a windspeed of 0mph
+
+London: https://www.google.co.uk/maps/place/-0.1257,51.5085
+[13 Oct 14:19] Weather is overcast clouds. Temperature is 15.81C feels like 15.38C with a windspeed of 3.09mph
+
+Mumbai: https://www.google.co.uk/maps/place/72.8479,19.0144
+[13 Oct 14:19] Weather is haze. Temperature is 30.99C feels like 37.99C with a windspeed of 3.09mph
+
+Nairobi: https://www.google.co.uk/maps/place/36.8167,-1.2833
+[13 Oct 14:19] Weather is overcast clouds. Temperature is 21.09C feels like 20.59C with a windspeed of 3.74mph
+
+Ottawa: https://www.google.co.uk/maps/place/-75.6981,45.4112
+[13 Oct 14:19] Weather is overcast clouds. Temperature is 15.38C feels like 15.43C with a windspeed of 2.1mph
+
+Paris: https://www.google.co.uk/maps/place/2.3488,48.8534
+[13 Oct 14:19] Weather is scattered clouds. Temperature is 14.59C feels like 13.57C with a windspeed of 0.89mph
+
+Quebec: https://www.google.co.uk/maps/place/-71.2145,46.8123
+[13 Oct 14:19] Weather is broken clouds. Temperature is 15.92C feels like 15.81C with a windspeed of 0.89mph

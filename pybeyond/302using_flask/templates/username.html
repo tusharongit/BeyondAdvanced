@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <articl>
+        <section>
+            <h2>Hello from Flask</h2>
+            <!-- start Flask micro-syntax -->
+            <!-- Flask converts the following syntax into python -->
+            {% if name %}
+                <!-- bind data using double curly -->
+                <h3>Greetings {{name}}</h3>
+            {% else %}
+                <h3>Greetings guest!</h3>
+            {% endif %}
+        </section>
+    </articl>
+</body>
+</html>

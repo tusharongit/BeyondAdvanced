@@ -1,5 +1,5 @@
-import autowiper
-import autolights
+from review1 import autolights
+from review1 import autowiper
 
 class AutoFunc: # this is our observable (subject)
     def __init__(self):
